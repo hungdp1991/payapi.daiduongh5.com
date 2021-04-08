@@ -1,0 +1,1 @@
+{ "date": "03:51:25 2019-05-17", "service": "UpdateBalance","agent": "m002","productAgent": "m002","username": "htgh0001","userId": "99844534","email": "htgh0001@gmail.com","amount": "20000","cardCode": "","transactionId": "goldm0021558057885djvksn","cardStatus": "1","balance": "960879999","cardMessage": "Trừ tiền thành công" }

@@ -1,0 +1,1 @@
+{ "date": "14:56:17 2020-07-10", "service": "WaitingChargeATM","agent": "phm001","username": "viet83","userId": "99845692","transactionId": "phm0011594367777054NuOvHNk","status": "-200","amount": "10000","trans_id": "phm0011594367777054NuOvHNk","sign": "c8d32e1100516a33abe8bf54c36ce8e0","gold": "0","cardType": "ATM","message": "Waiting return" }

@@ -1,0 +1,1 @@
+authenticatePassport #agent:m001 #username:tuoiblack #status: 1
